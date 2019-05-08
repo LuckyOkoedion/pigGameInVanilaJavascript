@@ -1,0 +1,1 @@
+This is a codealong rolling dice game built with vanila javascript, html5 and css. Very easy to set up. 
